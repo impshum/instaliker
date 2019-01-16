@@ -12,8 +12,8 @@ When installing make sure to ADD TO PATH (very important)
 
 Open up a terminal/command prompt and enter these separately followed by ENTER (you'll see stuff installing)
 
-pip install InstagramApi
-pip install schedule
+    pip install InstagramApi
+    pip install schedule
 
 
 3. Open up run.py in a text editor and enter your details
@@ -26,6 +26,6 @@ I recommend notepad++ or Atom
 
 In a terminal/command prompt navigate to where run.py is (cd = change directory)
 
-cd Desktop
-cd instaliker
-python run.py
+    cd Desktop
+    cd instaliker
+    python run.py
