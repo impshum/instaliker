@@ -1,4 +1,4 @@
-### Instaliker
+## Instaliker
 
 Like hashtags on Instagram on a schedule.
 
